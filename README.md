@@ -1,2 +1,4 @@
 # CollectionDemo
-This repo contains collectin demo including all the collections
+This repo contains collection demo.
+Author:- Sagar
+Date:- 07/08/2015
